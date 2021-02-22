@@ -67,7 +67,7 @@
 				printf(
 					/* translators: %s: WordPress. */
 					esc_html__( 'Hosted by %s.', 'twentytwentyone' ),
-					'<a href="' . esc_url( __( 'https://wordpress.org/', 'twentytwentyone' ) ) . '">Pressable</a>'
+					'<a href="' . esc_url( __( 'https://pressable.com/', 'twentytwentyone' ) ) . '">Pressable</a>'
 				);
 				?>
 			</div><!-- .powered-by -->
